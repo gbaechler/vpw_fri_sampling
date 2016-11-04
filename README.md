@@ -9,3 +9,5 @@ Gilles Baechler, Adam Scholefield, Loïc Baboulaz, Martin Vetterli
 ## Usage
 
 Simply open the Jupyter notebook __python_companion.ipynb__
+
+Based on a work at https://github.com/gbaechler/vpw_fri_sampling.
